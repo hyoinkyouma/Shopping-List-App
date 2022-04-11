@@ -1,11 +1,11 @@
 # Shopping-List-App
 A simple shopping list app made with Electron
 
-#Add Entries
+##Add Entries
 Go to file > Add items
 
-#Remove Entries
+##Remove Entries
 Double click item
 
-#Clear all entries
+##Clear all entries
 File > Clear
